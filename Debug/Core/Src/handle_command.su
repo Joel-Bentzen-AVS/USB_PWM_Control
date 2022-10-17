@@ -1,0 +1,6 @@
+../Core/Src/handle_command.c:14:6:Serial_Init	16	static
+../Core/Src/handle_command.c:30:6:Handle_Message	24	static
+../Core/Src/handle_command.c:45:6:Handle_Serial_Command	24	static
+../Core/Src/handle_command.c:61:6:Request_New_CCR	24	static
+../Core/Src/handle_command.c:78:6:Line_Break	16	static
+../Core/Src/handle_command.c:85:6:Error_Message	16	static
